@@ -50,3 +50,5 @@ yarn.lock
 
 # Ignore ESLint files
 .eslintcache
+
+node_modules/
